@@ -75,7 +75,9 @@ source venv/bin/activate
 
 ```
 ### Step 1 Install Requirements
-```bash pip install -r requirements.txt ```
+```bash 
+pip install -r requirements.txt
+```
 
 
 Step 3 Install Node Packages
