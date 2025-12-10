@@ -73,5 +73,15 @@ cd kyc_project
 python3 -m venv venv
 source venv/bin/activate
 
+```
+### Step 1 Install Requirements
+pip install -r requirements.txt
 
+
+Step 3 Install Node Packages
+cd ../kyc_frontend
+npm install
+
+Step 2 kyc_project/      # FastAPI backend
+kyc_mobile/       # React Native app
 
