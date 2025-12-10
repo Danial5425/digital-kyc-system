@@ -61,3 +61,17 @@ This project demonstrates secure, modern, production-ready KYC architecture.
 ---
 
 
+---
+
+# ⚙️ Setup Instructions
+
+## 🟦 1. Backend (FastAPI)
+
+### Create Virtual Environment
+```bash
+cd kyc_project
+python3 -m venv venv
+source venv/bin/activate
+
+
+
