@@ -1,0 +1,17 @@
+# Python
+venv/
+*.pyc
+__pycache__/
+kyc_project/kyc.db
+
+# Node
+node_modules/
+dist/
+.expo/
+.expo-shared/
+
+# OS files
+.DS_Store
+
+# Environment variables
+*.env
