@@ -60,5 +60,4 @@ This project demonstrates secure, modern, production-ready KYC architecture.
 
 ---
 
-# 🏗 Architecture
 
